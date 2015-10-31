@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FlySleepGo]]></title>
+        <description><![CDATA[FlySleepGo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Oct 2015 10:42:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sofitel Bellecour, Lyon.]]></title>
+            <description><![CDATA[<article><h1>Sofitel Bellecour, Lyon.</h1><p>Europe France Hotel</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6ec5cd9-ad2a-4ed2-a482-8c885be0223b.jpg"></article>]]></description>
+            <link>undefinedsofitel-bellecour-lyon/index.html</link>
+            <guid isPermaLink="false">7a9fe6f9-f2fa-4ffb-a1b4-c1f6293ce1ee</guid>
+            <pubDate>Sat, 31 Oct 2015 10:41:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
