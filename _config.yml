@@ -2,6 +2,7 @@ name: FlySleepGo
 favicon: null
 layout_spectrum: 0.74696
 typography_spectrum: 0.15846775495447218
+title: 'Flights, hotels and rewards.'
 cta:
   domain: null
   bucket: null
