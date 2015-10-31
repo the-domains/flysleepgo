@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: Europe Italy Hotel
-datePublished: '2015-10-31T11:08:13.543Z'
-dateModified: '2015-10-31T11:08:02.368Z'
+datePublished: '2015-10-31T14:13:46.304Z'
+dateModified: '2015-10-31T14:13:42.082Z'
 title: 'NH Lingotto Tech, Turin'
+sourcePath: _posts/2015-10-31-nh-lingotto-tech-turin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-31-nh-lingotto-tech-turin.md
-published: true
 url: nh-lingotto-tech-turin/index.html
 _type: Article
 
