@@ -1,0 +1,23 @@
+name: FlySleepGo
+favicon: null
+layout_spectrum: 0.3697589396033436
+typography_spectrum: 0.15846775495447218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7826384082436562
+  lightness: 0.1696009710431099
+  saturation: 0.5088856336660683
+  rhythmicContrast: 0.9742474656086415
+purpose: []
