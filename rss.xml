@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Flights, hotels and rewards.]]></title>
+        <description><![CDATA[Flights, hotels and rewards.]]></description>
+        <link>https://thegrid.ai/flysleepgo/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 20:44:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flysleepgo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ibis York Centre, York]]></title>
+            <description><![CDATA[<article><h1>Ibis York Centre, York</h1><p>York oozes history, with every street having some sort of story to tell about life under the Romans, Anglo-Saxons or Vikings. The 14th century Shambles sits near York Minster, one of the largest gothic cathedrals in the world. The Ibis shares none of this history.</p><img src="http://i2.wp.com/flysleepgo.com/wp-content/uploads/2015/08/Ibis-York-Centre-2015-Exterior1.jpg?fit=1200%2C537"></article>]]></description>
+            <link>http://flysleepgo.com/2015/08/ibis-york-centre/</link>
+            <guid isPermaLink="false">242934b9-8fba-4aa4-9113-3c7975e0dcd0</guid>
+            <pubDate>Wed, 30 Dec 2015 20:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NH Lingotto Tech, Turin]]></title>
+            <description><![CDATA[<article><h1>NH Lingotto Tech, Turin</h1><p>Europe Italy Hotel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/976db7b91389fd7213c53f16e679baae35b2b910.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flysleepgo/nh-lingotto-tech-turin/index.html</link>
+            <guid isPermaLink="false">5495f503-fa8d-46f9-8c95-1e9353ad18b3</guid>
+            <pubDate>Sat, 31 Oct 2015 14:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sofitel Bellecour, Lyon.]]></title>
+            <description><![CDATA[<article><h1>Sofitel Bellecour, Lyon.</h1><p>Europe France Hotel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d8e66574264a25dbe10870fdfc87e1507c627f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flysleepgo/sofitel-bellecour-lyon/index.html</link>
+            <guid isPermaLink="false">7a9fe6f9-f2fa-4ffb-a1b4-c1f6293ce1ee</guid>
+            <pubDate>Sat, 31 Oct 2015 11:01:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
