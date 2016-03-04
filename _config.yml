@@ -1,7 +1,7 @@
 name: FlySleepGo
 favicon: null
 layout_spectrum: 0.76073
-typography_spectrum: 0.49626
+typography_spectrum: 0.36114
 title: 'Flights, hotels and rewards.'
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#2b2b2b'
   brandStrength: 0.75
   lightness: 0.6875
-  saturation: 0.8125
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
